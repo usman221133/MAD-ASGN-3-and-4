@@ -54,4 +54,7 @@ public class SignUpActivity extends AppCompatActivity {
             }
         });
     }
+
+    public static class OnboardingScreen {
+    }
 }
